@@ -26,7 +26,7 @@ Diferente de métodos como [TED](https://www.bcb.gov.br/acessoinformacao/pergunt
 
 ### O que é uma chave PIX?
 
-As chaves PIX são tokens individuais usados para conectar os seus dados à conta bancária. Isso significa que não existe a necessidade de inserir os detalhes da conta bancária ao realizar e receber transferências, tornando o pix uma forma mais segura e prática de transferência bancária.
+As chaves PIX são tokens individuais usados para conectar os seus dados à sua conta bancária. Isso significa que não existe a necessidade de inserir os detalhes da conta bancária ao realizar e receber transferências, tornando o pix uma forma mais segura e prática de transferência bancária.
 
 Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser compartilhada com quem irá transferir para a sua conta.
 
