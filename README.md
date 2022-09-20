@@ -40,7 +40,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 
 ## Como configurar uma chave PIX para minha conta no BestBank?
 
-1. Abra o aplictivo do BestBank e acesse sua conta bancária.
+1. Abra o aplicativo do BestBank e acesse sua conta bancária.
 2. Localizado no menu principal selecione “**Opções de Pix**”.
 3. Após ler as instruções selecione “**Continuar**”.
 4. Na proxima janela selecione “**Minhas chaves PIX**”
@@ -57,7 +57,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 
 8. Insira o código enviado ao seu **e-mail** ou **celular**.
 9. Pressione “**Confirmar**”.
-10. Insira sua senha bancária.
+10. Insira a senha de sua conta BestBank.
 
 
 > :white_check_mark: Tudo pronto! Agora você concluiu a configuração de sua chave PIX. Você poderá fazer e receber transferências mais rapidamente e o tempo todo. Espero que goste! 
