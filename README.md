@@ -15,7 +15,7 @@ Este documento descreve como configurar uma chave PIX para suas transações.
 ## O que é PIX?
 
 PIX é um método de pagamento instantâneo desenvolvido pelo [**Banco Central do Brasil (BCB)**](https://www.bcb.gov.br) para obter uma execução mais rápida de transferências de pagamento.
-Diferente de métodos como [TED](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Transferência Eletrônica Disponível") e [DOC](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Documento de Ordem de Crédito"), PIX é mais rápido, gratuito é pode ser usado a qualquer momento, oferecendo vantagem competitiva.
+Diferente de métodos como [TED](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Transferência Eletrônica Disponível") e [DOC](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Documento de Ordem de Crédito"), PIX é mais rápido, gratuito e pode ser usado a qualquer momento, oferecendo vantagem competitiva.
 
 **Principais Diferenças**
 ||PIX|TED|DOC|Boleto|
@@ -42,8 +42,8 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 
 1. Abra o aplicativo do BestBank e acesse sua conta bancária.
 2. Localizado no menu principal selecione “**Opções de Pix**”.
-3. Após ler as instruções selecione “**Continuar**”.
-4. Na proxima janela selecione “**Minhas chaves PIX**”
+3. Após ler as instruções, selecione “**Continuar**”.
+4. Na próxima janela selecione “**Minhas chaves PIX**”
 
 > :information_source: 
 > : Agora é hora de selecionar sua chave PIX. Para este exemplo, utilizaremos o e-mail.
@@ -53,7 +53,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 7. Após confirmar que inseriu o endereço de e-mail corretamente, selecione “**Registrar**”.
 
 > :information_source: 
-> : Ao cadastrar um e-mail ou celular, é necessário validar ambos, por questões de segurança. Um código será enviado por SMS(celular) oou e-mail cadastrado dependendo da chave PIX escolhida. Após receber o código, você pode inseri-lo na caixa.
+> : Ao cadastrar um e-mail ou celular, é necessário validar ambos, por questões de segurança. Um código será enviado por SMS(celular) ou e-mail cadastrado dependendo da chave PIX escolhida. Após receber o código, você pode inseri-lo na caixa.
 
 8. Insira o código enviado ao seu **e-mail** ou **celular**.
 9. Pressione “**Confirmar**”.
@@ -63,7 +63,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 > :white_check_mark: Tudo pronto! Agora você concluiu a configuração de sua chave PIX. Você poderá fazer e receber transferências mais rapidamente e o tempo todo. Espero que goste! 
 
 > **Note**
-> : Não e possivel configurar o mesmo CNPJ/CPF para duas contas bancárias
+> : Não é possível configurar o mesmo CNPJ/CPF para duas contas bancárias
 
 ## Tópicos Relacionados
 
