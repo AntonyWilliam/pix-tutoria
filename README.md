@@ -20,7 +20,7 @@ Diferente de métodos como [TED](https://www.bcb.gov.br/acessoinformacao/pergunt
 |---|---|---|---|---|
 |**Tempo de transferência :clock10:**|Em média **10s** :clock10:|Pode levar até **90 minutos** :alarm_clock:|Até **dois dias úteis** :calendar:|**Dois dias úteis**:calendar:|
 |**Informações necessárias para transferência**|Apenas **chave PIX**|Nome Completo; <br> CPF/CNPJ;  <br> Nome do Banco;  <br>  Número da Agência; <br> Número da Conta; <br> Poupança/Corrente.|Nome Completo; <br> CPF/CNPJ;  <br> Nome do Banco;  <br>  Número da Agência; <br> Número da Conta; <br> Poupança/Corrente.| Nome Completo; <br> CPF/CNPJ.
-|**Custo** :money_with_wings:|:white_check_mark: **Gratuito**|A tarifa do remetente de DOC ou TED, varia de cada instituição, em bancos como o BB, Caixa e Bradesco varia de **R$ 10** a **R$ 22** :money_with_wings:| Varia de cada instituição **R$ 10** a **R$ 22** :money_with_wings:|Varia de cada instituição, **R$ 1,00** e **R$ 5,00** :money_with_wings:|
+|**Custo** :money_with_wings:|**Gratuito**|A tarifa do remetente de DOC ou TED, varia de cada instituição, em bancos como o BB, Caixa e Bradesco varia de **R$ 10** a **R$ 22** :money_with_wings:| Varia de cada instituição **R$ 10** a **R$ 22** :money_with_wings:|Varia de cada instituição, **R$ 1,00** e **R$ 5,00** :money_with_wings:|
 
 ### O que é uma chave PIX?
 
