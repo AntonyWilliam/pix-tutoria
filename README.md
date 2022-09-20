@@ -33,7 +33,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 - CPF/CNPJ;
 - Chave aleatória.
 
-> :blue_book: **Chave aleatória** ou um [EVP](https://www.bcb.gov.br/estabilidadefinanceira/perguntaserespostaspix "Endereço Virtual de Pagamento")  é um código único pessoal gerado pela sua conta, geralmente utilizado quando você não se sente à vontade para compartilhar suas informações, como CPF/CNPJ ou número de celular.
+> :blue_book: **Chave aleatória** ou um [EVP](https://www.bcb.gov.br/estabilidadefinanceira/perguntaserespostaspix "Endereço Virtual de Pagamento")  é um código único pessoal gerado pela sua conta, geralmente utilizado quando você não se sente à vontade para compartilhar suas informações pessoais, como CPF/CNPJ ou número de celular.
 
 ## Como configurar uma chave PIX para minha conta no BestBank?
 
