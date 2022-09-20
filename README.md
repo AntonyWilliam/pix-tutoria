@@ -17,7 +17,7 @@ Este documento descreve como configurar uma chave PIX para suas transações.
 PIX é um método de pagamento instantâneo desenvolvido pelo [**Banco Central do Brasil (BCB)**](https://www.bcb.gov.br) para obter uma execução mais rápida de transferências de pagamento.
 Diferente de métodos como [TED](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Transferência Eletrônica Disponível") e [DOC](https://www.bcb.gov.br/acessoinformacao/perguntasfrequentes-respostas/faq_transferencias "Documento de Ordem de Crédito"), PIX é mais rápido, gratuito e pode ser usado a qualquer momento, oferecendo vantagem competitiva.
 
-**Principais Diferenças**
+**Principais diferenças entre o PIX e outros metodos de transferência:**
 ||PIX|TED|DOC|Boleto|
 |---|---|---|---|---|
 |**Tempo de transferência :clock10:**|Em média **10s**|Pode levar até **90 minutos** :alarm_clock:|Até **dois dias úteis** :calendar:|**Dois dias úteis**:calendar:|
