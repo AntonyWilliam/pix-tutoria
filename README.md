@@ -1,3 +1,4 @@
+
 **Sumário**:
 
 - [Bem-vindo ao BestBank](#bem-vindo-ao-bestbank)
@@ -71,7 +72,8 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
   - [Banco do Brasil](https://www.bb.com.br/pbb/pagina-inicial/solucoes-digitais/como-fazer/cadastro-no-pix)
   - [Will Bank](https://ajuda.willbank.com.br/hc/pt-br/articles/4411334723348-Como-cadastro-uma-chave-Pix-#:~:text=Clique%20em%20"Cadastrar%20chave"%20e,"Cadastrar%20chave"%20e%2C%20prontinho)
 
-> **Nota:** Não e possivel configurar o mesmo CNPJ/CPF para duas contas bancárias
+> **Note**
+> : Não e possivel configurar o mesmo CNPJ/CPF para duas contas bancárias
 
 Esse artigo foi útil?
 |[Sim](teste)|[Não](teste)|
