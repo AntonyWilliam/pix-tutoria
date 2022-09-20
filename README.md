@@ -63,7 +63,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 > :white_check_mark: Tudo pronto! Agora você concluiu a configuração de sua chave PIX. Você poderá fazer e receber transferências mais rapidamente e o tempo todo. Espero que goste! 
 
 > **Note**
-> : Não é possível configurar o mesmo CNPJ/CPF para duas contas bancárias
+> : Não é possível configurar a mesma chave PIX para duas contas bancárias diferentes.
 
 ## Tópicos Relacionados
 
@@ -77,7 +77,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 
 
 Esse artigo foi útil?
-|[Sim](teste)|[Não](teste)|
+|[:heavy_check_mark: Sim](teste)|[:x: Não](teste)|
 |---|---|
 
 Se você tiver alguma dúvida, entre em contato com nossa equipe de suporte técnico. Eles ficarão felizes em ajudar você.
