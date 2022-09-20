@@ -47,7 +47,7 @@ Existem 4 tipos de chaves PIX disponíveis para cadastro. Cada chave pode ser co
 > :information_source: Agora é hora de selecionar sua chave PIX. Para este exemplo, utilizaremos o e-mail.
 
 5. Escolha "**E-mail**"
-6. Inclua o seu e-mail.
+6. Insira o seu e-mail.
 7. Escolha “**Registrar**”.
 
 >:blue_book: Ao cadastrar um e-mail ou celular, é necessário validar ambos, por questões de segurança. Um código será enviado por SMS(celular) oou e-mail cadastrado dependendo da chave PIX escolhida. Após receber o código, você pode inseri-lo na caixa.
